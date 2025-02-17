@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { useNavigate, useParams } from "react-router-dom";
-import "../pages/ShowDetail.css";
-import AudioPlayer from "../components/AudioPlayer";
+import "./ShowDetail.css";
+import AudioPlayer from "./components/AudioPlayer";
 
 function ShowDetail() {
   const { id } = useParams();

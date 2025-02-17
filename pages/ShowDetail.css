@@ -1,0 +1,98 @@
+css Copy code .show {
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .podcast-detail-image {
+    max-width: 100%;
+    height: auto;
+    margin: 1rem 0;
+  }
+  
+  .show h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .show p {
+    font-size: 1rem;
+    margin: 0.5rem 0;
+  }
+  
+  .show a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .show a:hover {
+    text-decoration: underline;
+  }
+  
+  .show-detail {
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .podcast-detail-image {
+    max-width: 15%;
+    height: auto;
+    margin: 1rem 0;
+  }
+  
+  .show-detail select {
+    margin: 1rem 0;
+    padding: 0.5rem;
+    font-size: 1rem;
+  }
+  
+  .episodes {
+    margin-top: 2rem;
+    text-align: left;
+  }
+  
+  .episode-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 1rem;
+    margin: 1rem 0;
+    background-color: #f9f9f9;
+  }
+  
+  .episode-card h3 {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .episode-card audio {
+    width: 100%;
+    margin-top: 1rem;
+  }
+  
+  .back-button {
+    display: inline-block;
+    background: #007bff;
+    color: #fff;
+    padding: 10px 15px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    text-decoration: none;
+  }
+  
+  .back-button:hover {
+    background: #0056b3;
+  }
+  .favourite-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 1.5rem;
+    margin-top: 5px;
+  }
+  
+  .favourite-btn:focus {
+    outline: none;
+  }

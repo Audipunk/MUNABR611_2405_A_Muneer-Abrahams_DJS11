@@ -57,7 +57,7 @@ The application should now be running on `http://localhost:5173` (or another por
 
 O-Casst uses the following API endpoints:
 
-- Base URL: ''///error
+- Base URL: 'https://podcast-api.netlify.app/'
 - Shows list:'https://podcast-api.netlify.app/genre/<ID>'
 - Show details: 'https://podcast-api.netlify.app/id/<ID>'
 

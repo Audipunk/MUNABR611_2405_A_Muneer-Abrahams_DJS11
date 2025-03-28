@@ -84,7 +84,9 @@ Contributions to O-Casst are welcome! Please feel free to submit a Pull Request.
 ## Contact Information
 
 👤 Name: Muneer Abrahams 
-📧 Email: Audipunkwp@gmail.com 
+
+📧 Email: Audipunkwp@gmail.com
+
 🐙 GitHub: https://github.com/Audipunk
 
 ## License

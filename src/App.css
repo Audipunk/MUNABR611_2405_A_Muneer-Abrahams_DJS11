@@ -4,11 +4,11 @@
   --primary-color: #3498db;
   --secondary-color: #2ecc71;
   --accent-color: #e74c3c;
-  --background-color: #ffffff;
+  --background-color: #61cf6a;
   --text-color: #333333;
-  --light-bg: var(--background-color);
+  --light-bg: var( #61cf6a);
   --light-text: var(--text-color);
-  --light-card-bg: #f5f5f5;
+  --light-card-bg:  #61cf6a;
   --dark-bg: #121212;
   --dark-text: #f5f5f5;
   --dark-card-bg: #2c2c2c;
@@ -22,7 +22,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: var(--font-sans);
-  background-color: var(--light-bg);
+  background-color:  #61cf6a;
   color: var(--light-text);
   line-height: 1.5;
   font-size: 16px;
@@ -50,13 +50,13 @@ body {
   right: 0;
   min-height: var(--navbar-min-height);
   background-color: var(--primary-color);
-  color: white;
+  color: rgb(54, 160, 86);
   z-index: 1000;
   transition: background-color 0.3s, color 0.3s;
 }
 
 .navbar.light {
-  background-color: #ffffff;
+  background-color: #75b9ca;
   color: #333333;
 }
 
@@ -92,7 +92,7 @@ body {
 
 .navbar-center a:hover,
 .navbar-center a.active {
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: rgba(73, 161, 128, 0.2);
 }
 
 .navbar-right {

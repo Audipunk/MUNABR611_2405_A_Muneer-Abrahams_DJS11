@@ -4,8 +4,8 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #a8a7a7;
-  color: white;
+  background-color: #51ada9;
+  color: rgb(91, 173, 128);
 }
 
 .app {
@@ -308,7 +308,7 @@ nav ul li a:hover {
   margin-top: 10px;
   padding: 8px 12px;
   background-color: #007bff;
-  color: white;
+  color: rgb(114, 78, 78);
   text-decoration: none;
   border: none;
   border-radius: 4px;
@@ -442,7 +442,7 @@ body {
   gap: 5px;
   padding: 8px 12px;
   background-color: var(--violet9);
-  color: white;
+  color: rgb(57, 179, 168);
   border: none;
   border-radius: 4px;
   cursor: pointer;
@@ -474,7 +474,7 @@ body {
 
 .navbar ul li {
   margin-right: 20px;
-  color:white;
+  color:rgb(75, 43, 43);
 }
 
 .navbar ul li a {

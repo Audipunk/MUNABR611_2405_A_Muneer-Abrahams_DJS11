@@ -1,0 +1,59 @@
+{
+  "name": "studentno-munabr611-classcode-2405-group-a-muneer-abrahams-djs11",
+  "version": "0.0.0",
+  "private": true,
+  "description": "[DJS11] Starter Instructions for the Final Portfolio Piece Submission 🚀",
+  "keywords": [
+    "podcast"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "MUNABR611_2405_A_Muneer-Abrahams_DJS11"
+  },
+  "license": "ISC",
+  "author": "Muneer Abrahams",
+  "type": "module",
+  "main": "eslint.config.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^8.1.2",
+    "@npmcli/eslint-config": "^5.1.0",
+    "@radix-ui/colors": "^3.0.0",
+    "@radix-ui/react-accordion": "^1.2.1",
+    "@radix-ui/react-avatar": "^1.1.1",
+    "@radix-ui/react-icons": "^1.3.2",
+    "@radix-ui/react-navigation-menu": "^1.2.1",
+    "@radix-ui/react-select": "^2.1.2",
+    "@radix-ui/react-separator": "^1.1.0",
+    "@radix-ui/react-slider": "^1.2.1",
+    "@radix-ui/react-tabs": "^1.1.1",
+    "@radix-ui/themes": "^1.1.2",
+    "lucide-react": "^0.451.0",
+    "npm-packlist": "^10.0.0",
+    "prop-types": "^15.8.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2",
+    "react-slick": "^0.30.3",
+    "slick-carousel": "^1.8.1",
+    "tailwind": "^2.3.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.11.1",
+    "@types/react": "^18.3.10",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.2",
+    "eslint": "^8.57.1",
+    "eslint-config-react-app": "^7.0.1",
+    "eslint-plugin-react": "^7.37.0",
+    "eslint-plugin-react-hooks": "^5.1.0-rc.0",
+    "eslint-plugin-react-refresh": "^0.4.12",
+    "globals": "^15.9.0",
+    "vite": "^6.2.3"
+  }
+}

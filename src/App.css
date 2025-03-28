@@ -26,6 +26,7 @@ body {
   color: var(--light-text);
   line-height: 1.5;
   font-size: 20px;
+  
 }
 
 .app {
@@ -40,6 +41,7 @@ body {
   flex-grow: 1;
   padding: 10px;
   padding-top: calc(var(--navbar-min-height) + 20px);
+  
 }
 
 /* Navbar Styles */
@@ -134,6 +136,7 @@ body {
   padding-top: 20px;
   padding-bottom: 20px;
   text-align: center;
+  
 }
 
 .welcome-heading {
@@ -548,4 +551,10 @@ body {
 .theme-toggle {
   position: relative;
   z-index: 1;
+}
+
+.background {
+  background: url('/watermark.png') no-repeat fixed center;
+  background-size: 200px; /* Adjust size as needed */
+  opacity: 0.1; /* Adjust transparency */
 }

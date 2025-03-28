@@ -1,6 +1,6 @@
 # O-Casst - Podcast App
 
-## URL:
+## BASE URL:
 
 - https://podcast-api.netlify.app
 - 

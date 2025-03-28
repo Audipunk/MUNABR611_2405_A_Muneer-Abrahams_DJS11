@@ -116,7 +116,7 @@ This function is likely used when a user clicks on a show to start playing it, a
   return (
     <Box className="home">
       <Flex direction="column" align="center" justify="center" style={{ textAlign: 'center', marginBottom: '24px' }}>
-        <Heading size="8" className="welcome-heading">O-Casst</Heading>
+        <Heading size="8" className="welcome-heading">⭕-Casst</Heading>
         <Text size="4" align="center" mb="6" color="gray"></Text>
       </Flex>
 

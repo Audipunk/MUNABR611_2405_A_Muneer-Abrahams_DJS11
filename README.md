@@ -1,4 +1,4 @@
-# O-Casst - Podcast App
+# 🎙⭕-Casst - Podcast App
 
 ## BASE URL:
 

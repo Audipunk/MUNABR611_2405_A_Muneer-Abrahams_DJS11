@@ -1,11 +1,10 @@
-# PodBlast - Podcast Discovery and Listening Platform
+# O-Casst - Podcast Discovery and Listening Platform
 
-PodBlast is a modern, feature-rich web application for discovering, managing, and listening to podcasts. Built with React and leveraging the power of various libraries, PodBlast offers a seamless and engaging podcast experience.
+O-Casst is a modern, feature-rich web application for discovering, managing, and listening to podcasts. Built with React and leveraging the power of various libraries, O-Casst offers a seamless and engaging podcast experience.
 
 ## url
 
-- https://podblast100.netlify.app/
-
+- https://podcast-api.netlify.app
 ## Features
 
 - Browse and search through a wide range of podcasts
@@ -34,12 +33,12 @@ For a complete list of dependencies, please refer to the `package.json` file.
 
 2. Clone the repository:
    ```
-   git clone https://github.com/your-username/podblast.git
+   git clone https://github.com/Audipunk/MUNABR611_2405_a_Muneer-Abrahams_DJS11
    ```
 
 3. Navigate to the project directory:
    ```
-   cd podblast
+   cd O-Casst
    ```
 
 4. Install dependencies using npm:
@@ -56,9 +55,9 @@ The application should now be running on `http://localhost:5173` (or another por
 
 ## API
 
-PodBlast uses the following API endpoints:
+O-Casst uses the following API endpoints:
 
-- Base URL: 'https://podblast100.netlify.app'///error
+- Base URL: ''///error
 - Shows list:'https://podcast-api.netlify.app/genre/<ID>'
 - Show details: 'https://podcast-api.netlify.app/id/<ID>'
 
@@ -80,13 +79,13 @@ The app uses a combination of custom CSS and Radix UI components for styling. Th
 
 ## Contributing
 
-Contributions to PodBlast are welcome! Please feel free to submit a Pull Request.
+Contributions to O-Casst are welcome! Please feel free to submit a Pull Request.
 
 ## Contact Information
 
-👤 Name: Jaime Gabriels 
-📧 Email: jgabriels26@gmail.com 
-🐙 GitHub: https://github.com/GABRIELS562
+👤 Name: Muneer Abrahams 
+📧 Email: Audipunkwp@gmail.com 
+🐙 GitHub: https://github.com/Audipunk
 
 ## License
 

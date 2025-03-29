@@ -1,10 +1,10 @@
 import React from 'react';
 import { ButtonIcon,} from '@radix-ui/react-icons';
 
-function ThemeToggle({ theme, toggleTheme, size = 18 }) {
+function ThemeToggle({ theme, toggleTheme, size = 25 }) {
    return (
      <button onClick={toggleTheme} className="theme-toggle">
-       {theme === 'light' ? <button width={size} height={size} /> : <ButtonIcon width={size} height={size} />}
+       {theme === 'dark' ? <buttonIcon width={size} height={size} /> : <ButtonIcon width={size} height={size} />}
      </button>
    );
  }

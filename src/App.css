@@ -51,15 +51,15 @@ body {
   left: 0;
   right: 0;
   min-height: var(--navbar-min-height);
-  
+  font-size: 1.7rem;
   color: rgb(54, 160, 86);
   z-index: 1000;
   transition: background-color 3600s, color 3600s;
 }
 
 .navbar.light {
-  background-color: #75b9ca;
-  color: #333333;
+  background-color: #119ec2;
+  color: #f5f8fa;
 }
 
 .navbar.dark {
@@ -551,6 +551,7 @@ body {
 .theme-toggle {
   position: relative;
   z-index: 1;
+  size: 0.5rem;
 }
 
 .background {
